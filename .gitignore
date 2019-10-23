@@ -1,0 +1,6 @@
+# ignore visual studio code files
+.vscode
+
+# ignore bin folder
+bin
+obj
